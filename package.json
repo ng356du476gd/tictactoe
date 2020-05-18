@@ -1,0 +1,20 @@
+{
+  "name": "LaunchSchool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10",
+    "require": "^2.4.20",
+    "yargs": "^15.3.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
